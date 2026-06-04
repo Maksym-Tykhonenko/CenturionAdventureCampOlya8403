@@ -87,7 +87,7 @@ const App = () => {
 
   const ONESIGNAL_KEY = `ea394623-51ec-46d1-86ee-7cd54f6f899d`;
 
-  const TARGET_DATA = new Date(2026, 4, 22, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 5, 22, 8, 8, 0);
 
 
   useEffect(() => {
@@ -95,7 +95,7 @@ const App = () => {
   //const currentData = new Date(); //текущая дата
   //
   //if (currentData <= targetData) {
-  //requestTrackingPermission();
+  requestTrackingPermission();
   //setAceptTransperency(true);
   //setIdfa('00000000-0000-0000-0000-000000000000');
   //console.log('ATT статус:', trackingStatus);
